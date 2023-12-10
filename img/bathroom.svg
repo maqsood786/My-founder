@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19.532" height="19.53" viewBox="0 0 19.532 19.53">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #868686;
+        fill-opacity: 0;
+        stroke: #868686;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="bathroom-icon" class="cls-1" d="M444.716,1752.41v1.49a4.454,4.454,0,0,1-2.92,4.21v1.38h-1.46v-1.12h-6.571v1.12h-1.46v-1.38a4.453,4.453,0,0,1-2.921-4.21v-1.49h-1.1v-1.12h17.522v1.12h-1.095Zm-10.586-7.46s0.342-1.49-1.46-1.49h-0.365s-1.46,0-1.46,1.12v5.97h-1.461v-5.97a2.664,2.664,0,0,1,2.921-2.61h0.365a2.862,2.862,0,0,1,2.92,2.98l1.825,1.5h-5.11Z" transform="translate(-427.281 -1740.97)"/>
+</svg>
